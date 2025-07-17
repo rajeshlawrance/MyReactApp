@@ -1,0 +1,22 @@
+https://chatgpt.com/c/68776671-791c-8003-8ce0-f702e5fc258d
+
+Option 1: Using Vite (Recommended for modern, fast setup)
+🔧 Step 1: Install Node.js
+Make sure Node.js is installed (preferably version 18+).
+
+node -v
+npm -v
+
+
+Step 2: Create a Vite React Project
+bash
+
+npm create vite@latest my-react-app -- --template react
+cd my-react-app
+npm install
+🚀 Step 3: Start the Development Server
+bash
+
+npm run dev
+Visit http://localhost:5173 in your browser.
+
